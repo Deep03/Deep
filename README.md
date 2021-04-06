@@ -7,6 +7,7 @@ If you hit any columns hit space again to play again.
 Press P to pause at any time. 
 
 Packages used with their description:
+
 Jswing: Used to create window-based applications. It is built on the top of AWT (Abstract Windowing Toolkit) API and entirely written in java.
 Unlike AWT, Java Swing provides platform-independent and lightweight components.
 The javax.swing package provides classes for java swing API such as JButton, JTextField, JTextArea, JRadioButton, JCheckbox, JMenu, JColorChooser etc.
